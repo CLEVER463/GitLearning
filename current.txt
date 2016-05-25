@@ -1,0 +1,17 @@
+* commit eaa23ac (HEAD -> master)
+| Author: liu sirui <463.clever@gmail.com>
+| Date:   Wed May 25 19:07:48 2016 +0800
+| 
+|     Modify some lines and commit
+|  
+* commit 2a9cc8d
+| Author: liu sirui <463.clever@gmail.com>
+| Date:   Wed May 25 19:06:40 2016 +0800
+| 
+|     Learning commit and add
+|  
+* commit 8517d0d
+  Author: liu sirui <463.clever@gmail.com>
+  Date:   Wed May 25 19:04:24 2016 +0800
+  
+      My Git Learning way is going on
