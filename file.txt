@@ -1,2 +1,7 @@
 set up a file
 test
+
+
+
+
+add new lines
